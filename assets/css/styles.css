@@ -743,8 +743,24 @@ a.graylink{
     border-bottom: 1px solid #000000 !important;
 }
 .tableWrapper{
-    padding: 30px;
+    padding: 40px;
     border: 1px solid #000000;
+    position: relative;
+}
+
+.tbl-track-the-txt {
+    padding-bottom: 20px !important;
+}
+
+.table-dr-2 th {
+    border: 1px solid #000000 !important;
+    font-family: 'poppins-bold';
+    text-align: center;
+}
+
+.table-dr-2 td {
+    border: 1px solid #000000;
+    font-family: 'poppins-semibold';
 }
 
 .popup-main-row{
